@@ -1,6 +1,5 @@
 # Disbox Web Client
 
-### Try Disbox here: https://disboxapp.github.io/web
 
 This is the web client for the Disbox project.
 
